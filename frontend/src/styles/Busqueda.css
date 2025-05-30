@@ -1,0 +1,21 @@
+
+.busqueda-container {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.busqueda-input {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 300px;
+  transition: border-color 0.3s;
+}
+
+.busqueda-input:focus {
+  border-color: #3f51b5;
+  outline: none;
+}
