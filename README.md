@@ -12,7 +12,7 @@ Este repositorio contiene el frontend y backend de mi proyecto web.
 
 Puedes ver o descargar la documentación completa desde el siguiente enlace:
 
-👉 [Ver Documentación del Proyecto](./Documentacion_Proyecto.pdf)
+👉 [Ver Documentación del Proyecto](./Codigo_Imagenes_CRUD_Proyectofinal.pdf)
 
 ---
 
@@ -22,9 +22,9 @@ Puedes ver o descargar la documentación completa desde el siguiente enlace:
 # Backend
 cd backend
 npm install
-npm run dev
+node app.js
 
 # Frontend
 cd frontend
-npm install
-npm start
+npm i express
+npm run dev
